@@ -59,7 +59,6 @@ a:active {
 }
 
 @media only screen and (min-width: 25em) {
-
 }
 
 @media only screen and (min-width: 38em) {
@@ -71,8 +70,8 @@ a:active {
   ul {
     text-align: right;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
-
 }
