@@ -58,9 +58,6 @@ a:active {
   color: #fff;
 }
 
-@media only screen and (min-width: 25em) {
-}
-
 @media only screen and (min-width: 38em) {
 
   h1 {
@@ -71,7 +68,4 @@ a:active {
     text-align: right;
   }
 
-}
-
-@media only screen and (min-width: 60em) {
 }
